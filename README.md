@@ -77,15 +77,15 @@ Remarkably, the proposed method does not use any machine-learning or statistical
 
 ## FAQ
 
-### Why not just use waifu2x
+### Why not just use waifu2x?
 
 waifu2x is too slow for real time applications.
 
-### Why not just use madVR with NGU
+### Why not just use madVR with NGU?
 
 NGU is proprietary, this algorithm is licensed under MIT.
 
-### How does FSRCNNX compare to this
+### How does FSRCNNX compare to this?
 
 Since it performs poorly (perceptually, for anime) compared to other algorithms, it was left out of our visual comparisons.
 
@@ -93,11 +93,11 @@ Since it performs poorly (perceptually, for anime) compared to other algorithms,
 
 *Note: FSRCNNX was not specifically trained/designed for anime. It is however a good general-purpose SISR algorithm for video.*
 
-### Where are the PSNR/SSIM metrics
+### Where are the PSNR/SSIM metrics?
 
 There are no ground truths of 4K anime.
 
-### Why not do PSNR/SSIM on 480p->720p upscaling
+### Why not do PSNR/SSIM on 480p->720p upscaling?
 
 [Story Time](FAQ_Detail.md)
 
